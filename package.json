@@ -7,9 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.7.14",
-    "@jiaminghi/data-view": "file:./DataV",
-    "echarts": "^5.4.3"
+    "@jiaminghi/data-view": "^2.10.0",
+    "echarts": "^5.4.3",
+    "vue": "^2.7.14"
   },
   "devDependencies": {
     "@vue/cli-service": "^5.0.8",
